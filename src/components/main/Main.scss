@@ -1,4 +1,5 @@
 @import "../../scss/variable";
+@import "../../scss/mixins";
 
 .card-container {
     background: orange;
@@ -88,4 +89,18 @@
 
 
 
+}
+
+@include media-xsm {
+
+    .card-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@include media-lg {
+    .card-container {
+        flex-direction: row;
+    }
 }
