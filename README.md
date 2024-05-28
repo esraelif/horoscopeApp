@@ -1,3 +1,5 @@
+![HoroscopeApp](https://github.com/esraelif/horoscopeApp/blob/main/src/horoscope.gif)
+Welcome to HoroscopeApp, your ultimate destination for daily horoscopes and astrological insights. Our website provides personalized horoscope readings based on your zodiac sign, offering predictions and advice on love, career, health, and more. Whether you're a passionate astrology enthusiast or a curious newcomer, HoroscopeApp offers detailed and accurate horoscopes to help guide you through your day. Explore our user-friendly interface to discover your daily forecast, compatibility with other signs, and insightful articles on astrological phenomena. Stay connected with the cosmos and let HoroscopeApp be your guide to the stars.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
